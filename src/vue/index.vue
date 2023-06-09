@@ -150,7 +150,6 @@ export default {
             this.showPage = false;
             this.$emit('choosePage', pageCount);
             this.firstPage();
-            console.log(pageCount);
         },
         // 键盘跳转
         jumpPage(e) {
