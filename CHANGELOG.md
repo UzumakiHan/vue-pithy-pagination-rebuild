@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/UzumakiHan/vue-pithy-pagination-rebuild/compare/v1.0.1...v1.0.2) (2023-06-09)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 新增仓库管理信息 ([5eab3f6](https://github.com/UzumakiHan/vue-pithy-pagination-rebuild/commit/5eab3f6efab52fb8a11f9fc445c42aaaa4daeb7b))
+
 ## [1.0.1](https://github.com/UzumakiHan/vue-pithy-pagination-rebuild/compare/v1.0.0...v1.0.1) (2023-06-09)
 
 

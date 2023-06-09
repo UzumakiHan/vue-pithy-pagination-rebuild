@@ -1,6 +1,6 @@
 {
   "name": "vue-pithy-pagination",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "vue-pithy-pagination分页组件重构",
   "main": "dist/vue3/cjs/index.js",
   "module": "dist/vue3/esm/index.js",
