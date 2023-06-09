@@ -17,6 +17,10 @@
     "package.json",
     "typings"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:UzumakiHan/vue-pithy-pagination.git"
+  },
   "keywords": [],
   "author": "UzumakiHan",
   "license": "ISC",
