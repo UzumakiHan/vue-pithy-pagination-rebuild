@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.1](https://github.com/UzumakiHan/vue-pithy-pagination-rebuild/compare/v1.0.0...v1.0.1) (2023-06-09)
+
+
+### 📝 Documentation | 文档
+
+* 更新readme内容 ([ece4970](https://github.com/UzumakiHan/vue-pithy-pagination-rebuild/commit/ece49702a94b9d4e904dedfe0f7d9f07764dae0a))
+
+
+### 👷‍ Build System | 构建
+
+* Update build dist ([452b1b8](https://github.com/UzumakiHan/vue-pithy-pagination-rebuild/commit/452b1b8381efbc2773f42691e8bacd19019962c9))
+
 ## 1.0.0 (2023-06-09)
 
 
